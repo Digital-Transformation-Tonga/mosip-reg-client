@@ -29,3 +29,6 @@ test.txt
 /.recommenders/
 **/*.iml
 .vscode
+logs
+.idea
+db
